@@ -1,9 +1,10 @@
-![Header](https://github.com/SJaynesh/JayneshSarkar/assets/115562979/75259a5e-4cdb-48c2-92c6-d713aace4540)
+![Desktop - 1](https://github.com/SJaynesh/SJaynesh/assets/115562979/d5a67773-6963-4f9b-8b34-421965c5c777)
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <h1 align="center">Hi 👋, I'm Jaynesh Sodvadiya</h1>
 <h3 align="center">Flutter Application Developer and Trainer - Faculty at Red and White Multimedia Education Pvt. Ltd.</h3>
 
 ## 🌐 Socials:
+
 ###
 
 <div align="left">
