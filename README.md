@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/22492450/jaynesh-sodvadiya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=stackoverflow&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
 
@@ -64,7 +64,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjaynesh&show_icons=true&locale=en&layout=compact" alt="sjaynesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjaynesh&show_icons=true&locale=en" alt="sjaynesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjaynesh&" alt="sjaynesh" /></p>
 
 ![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
