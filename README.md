@@ -2,8 +2,7 @@
 
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<pre>
-<h1 align="center">Hi 👋, I'm Jaynesh Sodvadiya</h1></pre>
+<h1 align="center">Hi 👋, I'm Jaynesh Sodvadiya</h1>
 <h3 align="center">Flutter Application Developer and Trainer - Faculty at Red and White Multimedia Education Pvt. Ltd.</h3>
 
 ## 🌐 Socials:
