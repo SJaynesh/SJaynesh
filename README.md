@@ -1,7 +1,9 @@
 ![Desktop - 1](https://github.com/SJaynesh/SJaynesh/assets/115562979/845a9bd6-0c15-4e84-ae2d-60523405dd80)
 
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<h1 align="center">Hi 👋, I'm Jaynesh Sodvadiya</h1>
+
+<pre>
+<h1 align="center">Hi 👋, I'm Jaynesh Sodvadiya</h1></pre>
 <h3 align="center">Flutter Application Developer and Trainer - Faculty at Red and White Multimedia Education Pvt. Ltd.</h3>
 
 ## 🌐 Socials:
