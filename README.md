@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jaynesh Sodvadiya</h1>
 <h3 align="center">Flutter Application Developer and Trainer - Faculty at Red and White Multimedia Education Pvt. Ltd.</h3>
 
+
 ## 🌐 Socials:
   
 ###
