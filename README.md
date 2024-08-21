@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/SJaynesh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=22&pause=1000&width=820&color=42E746&lines=Application+Developer+|+Android+Developer+|+Flutter+Developer" alt="Application Developer | Android Developer | Flutter Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=22&pause=1000&width=820&color=FFFFFF&lines=Application+Developer+|+Android+Developer+|+Flutter+Developer" alt="Application Developer | Android Developer | Flutter Developer" />
   </a>
 </p>
 
