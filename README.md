@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://github.com/user-attachments/assets/510c504d-6534-4d73-91d9-a633707e8a08)
+
+![Group 7](https://github.com/user-attachments/assets/d6d95582-169e-46c0-b3c8-cf647e65a5c2)
 
 <!-- Jaynesh Sarkar -->
 
