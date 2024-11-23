@@ -57,7 +57,7 @@
   </a>
 </div>
 
-<br />
+<br /> 
 
 
 <!-- GitHub Star link -->
