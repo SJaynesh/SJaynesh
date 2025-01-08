@@ -2,6 +2,8 @@
 
 ![Group 7](https://github.com/user-attachments/assets/d6d95582-169e-46c0-b3c8-cf647e65a5c2)
 
+<br>
+
 <!-- Jaynesh Sarkar -->
 
 <p align="center">
@@ -10,11 +12,21 @@
   </a>
 </p>
 
-<p align="center">
+<!--
+ <p align="center">
   <a href="https://github.com/SJaynesh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=22&pause=1000&width=820&color=FFFFFF&lines=Application+Developer+|+Android+Developer+|+Flutter+Developer" alt="Application Developer | Android Developer | Flutter Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=22&pause=1000&width=820&color=FFFFFF&lines=Application+Developer+|+Full+Stack+Developer+|+Trainer" alt="Application Developer | Full Stack Developer" />
   </a>
 </p>
+-->
+
+<p align="center">
+  <a href="https://github.com/SJaynesh/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=24&duration=3000&pause=1500&color=4CAF50&center=true&vCenter=true&width=850&lines=🚀+Application+Developer+|+Full+Stack+Developer+|+Trainer;💻+Crafting+Innovative+Solutions+with+Flutter+and+Web;📚+Empowering+Others+Through+Training+and+Code" alt="Application Developer | Full Stack Developer | Trainer" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Animated GIF" />
@@ -67,6 +79,15 @@
 </p>
 
 <hr>
+
+
+
+<!-- Footer Section -->
+<h2 align="center">✨ Thank You for Visiting ✨</h2>
+<p align="center">Feel free to explore my repositories and connect with me!</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" alt="Thank You" />
+</p>
 
 
 
