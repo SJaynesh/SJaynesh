@@ -12,8 +12,9 @@
 
 <p align="center">
   <a href="https://github.com/SJaynesh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=24&duration=3000&pause=1500&color=4CAF50&center=true&vCenter=true&width=850&lines=🚀+Application+Developer+|+Full+Stack+Developer+|+Trainer;💻+Crafting+Innovative+Solutions+with+Flutter+and+Web;📚+Empowering+Others+Through+Training+and+Code" alt="Application Developer | Full Stack Developer | Trainer" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=24&duration=3000&pause=1500&color=4CAF50&center=true&vCenter=true&width=850&lines=🚀+Application+Developer+|+Full+Stack+Developer+|+Trainer;💻+Crafting+Innovative+Solutions+with+Flutter+and+Web;📚+Empowering+Others+Through+Training+and+Code" alt="Application Developer | Full Stack Developer | Trainer" /> 
+  </a> 
+  
 </p>
 
 <p align="center">
